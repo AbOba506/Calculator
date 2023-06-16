@@ -1,0 +1,11 @@
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.exe.config
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.exe
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\bin\Debug\CalculatorWindows.pdb
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.AssemblyReference.cache
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.Form1.resources
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.Properties.Resources.resources
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.GenerateResource.cache
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.csproj.CoreCompileInputs.cache
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.exe
+C:\Users\bazar\Documents\мои доки\учеба\Языки программирования\c#\cats\CalculatorWindows\CalculatorWindows\obj\Debug\CalculatorWindows.pdb
